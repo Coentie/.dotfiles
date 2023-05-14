@@ -29,3 +29,4 @@ if [ -x "$(command -v docker)" ]; then
 else
     echo "Install docker"
 fi
+
